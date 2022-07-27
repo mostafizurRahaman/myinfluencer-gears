@@ -300,3 +300,6 @@ p {
       -o-transform:scale(1);
 }
 }
+.submit-btn{
+   border: none;
+}
